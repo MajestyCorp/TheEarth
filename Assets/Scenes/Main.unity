@@ -453,7 +453,7 @@ MonoBehaviour:
   minDistance: 1.1
   maxDistance: 3
   rotationAngleSpeed: 200
-  zoomSpeed: 2
+  zoomSpeed: 1
   zoomDampening: 5
   rotateDampening: 10
 --- !u!124 &1310820621
